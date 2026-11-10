@@ -1,8 +1,6 @@
 # 🐾 Moody Desk Pet for M5StickC Plus 1.1
 
-<video src="assets/demo.mp4" controls width="600">
-  Your browser does not support the video tag.
-</video>
+[Click here to watch the demo video](assets/demo.mp4)
 
 An interactive pixel-art virtual companion ("Tamagotchi") crafted specifically for the **M5StickC Plus 1.1** (ESP32-PICO + ST7789v2 LCD + MPU6886 IMU + SPM1423 PDM Mic + AXP192 PMIC).
 
